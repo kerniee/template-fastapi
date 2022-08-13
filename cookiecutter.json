@@ -1,0 +1,8 @@
+{
+  "root_folder_name": "app",
+  "name": "app",
+  "namespace": "kernie",
+  "description": "Описание проекта",
+  "author": "Matvey Abramov",
+  "email": "m.abramov@innopolis.university"
+}
