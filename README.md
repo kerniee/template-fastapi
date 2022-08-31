@@ -1,2 +1,5 @@
 # Fastapi Template
-To be enchanced
+Command to create template:
+```bash
+cookiecutter git@github.com:kerniee/template-fastapi.git
+```
